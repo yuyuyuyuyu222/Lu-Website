@@ -1,0 +1,61 @@
+---
+title: "教师团队"
+---
+
+```{=html}
+<div class="team-container">
+  <div class="team-card">
+    <img src="images/prof_lu.jpg" alt="鲁剑巍教授">
+    <h3>鲁剑巍 教授</h3>
+    <p>研究方向：水稻养分管理、施肥技术</p>
+    <p>博士生导师</p>
+  </div>
+
+  <div class="team-card">
+    <img src="images/prof_li.jpg" alt="李小坤教授">
+    <h3>李小坤 教授</h3>
+    <p>研究方向：油菜养分管理、土壤肥力</p>
+  </div>
+
+  <div class="team-card">
+    <img src="images/prof_ren.jpg" alt="任涛教授">
+    <h3>任涛 教授</h3>
+    <p>研究方向：植物营养生理、分子机制</p>
+    <p>教育部新世纪优秀人才</p>
+  </div>
+
+  <div class="team-card">
+    <img src="images/prof_liushi.jpg" alt="刘诗诗教授">
+    <h3>刘诗诗 教授</h3>
+    <p>研究方向：农业遥感</p>
+    <p>湖北省杰出青年基金获得者</p>
+  </div>
+
+  <div class="team-card">
+    <img src="images/prof_cong.jpg" alt="丛日环副教授">
+    <h3>丛日环 副教授</h3>
+    <p>研究方向：土壤培肥技术</p>
+    <p>中国土壤学会青年工作委员会委员</p>
+  </div>
+
+  <div class="team-card">
+    <img src="images/prof_lu.jpg" alt="陆志峰副教授">
+    <h3>陆志峰 副教授</h3>
+    <p>研究方向：养分高效利用</p>
+    <p>湖北省优秀博士学位论文获得者</p>
+  </div>
+
+  <div class="team-card">
+    <img src="images/prof_zhang.jpg" alt="张文君副教授">
+    <h3>张文君 副教授</h3>
+    <p>研究方向：土壤—植物养分循环与转化；土壤磷化学；植物硅营养植物-土壤互作</p>
+    <p>国际植物营养学会青年科学家奖</p>
+  </div>
+
+  <div class="team-card">
+    <img src="images/prof_zhu.jpg" alt="朱俊副教授">
+    <h3>朱俊 副教授</h3>
+    <p>研究方向：数字农业与精准施肥</p>
+    <p>国家自然科学基金青年项目负责人</p>
+  </div>
+</div>
